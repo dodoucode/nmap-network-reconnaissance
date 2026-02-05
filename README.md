@@ -30,4 +30,4 @@ Host Discovery
 Identified active hosts on the network before scanning ports.
 
 E.g:
-nmap -sn <target-ip-range>
+nmap -sn target
